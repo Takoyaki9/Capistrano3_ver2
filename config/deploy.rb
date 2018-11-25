@@ -1,7 +1,7 @@
 lock "3.7.0"
 
 set :application, "my-app-name"
-set :repo_url, "git@github.com:kappy/my-app-name.git"
+set :repo_url, "git@github.com:Takoyaki9/Capistrano3_ver2.git"
 
 namespace :deploy do
   desc "Make sure local git is in sync with remote."
